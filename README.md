@@ -1,1 +1,1 @@
-Disclaimer: This is just a school project. The name "mediSTAR" is just used as an example.
+This repository is created for the purpose of the Recent Open-Source Project Lab subject for the degree "Bachelor of Engineering" in "Information Technology". Here, me and my friends have worked together on the "Hospital Management System in HTML,CSS,JS". About Us: I am Sagar Shelar, My Friends Siddharth Thanekar, Prathamesh Bhor are students of the "Shivajirao S. Jondhale College of Engineering. Dombivli (E)", affiliated to the "University of Mumbai."
